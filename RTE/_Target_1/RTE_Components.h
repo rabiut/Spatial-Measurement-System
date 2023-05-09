@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: '2DX_2022_Studio_4B.c' 
+ * Project: '2dx_studio_8c' 
  * Target:  'Target 1' 
  */
 
